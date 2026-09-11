@@ -6,7 +6,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.4.10-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Mausam Pulse** transforms raw atmospheric data into personalized, operational decisions. Designed to bridge meteorological science and everyday life, it connects real-time IMD observation stations, Doppler radar feeds, and diurnal forecasting to individual risk tolerances and schedules.
+**Mausam Pulse** transforms raw atmospheric data into personalized, operational decisions. Designed to bridge meteorological science and everyday life, it connects real-time IMD observation stations, Doppler radar feeds, and diurnal forecasting to individual risk tolerances and schedules
 
 ---
 
